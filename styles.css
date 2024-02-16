@@ -67,7 +67,7 @@ header{
 }
 
 
-.rapid-impact h1 {
+h1 {
     font-size: 60px;
 }
 
@@ -295,6 +295,188 @@ footer p{
     margin: 0px 100px;
 }
 
+.sec-1{
+    background-color: #fffbf8;
+    padding: 200px 0px;
+}
+
+.sec1-complany{
+    display: flex;
+    align-items: center;
+    /* justify-content:space-around; */
+}
+
+.sec-2{
+    background-color:#ffffff;
+    padding: 60px 0px;
+}
+
+.about-image{
+    margin-right: 80px;
+}
+
+.content{
+    margin:20px 200px;
+}
+
+.portfolio-txt{
+    text-align: center;
+}
+
+
+.gaming-platform, 
+.yagankar-com , 
+.darakhtdanesh-org,
+.sec3-company{
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.sec-3{
+    background-color: #fffbf8;
+    padding: 60px 0;
+}
+
+.sec-4{
+    background-color: #ffffff;
+    padding: 60px 0px;
+    /* background-color: red; */
+}
+
+.Leadership-images-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Leadership-images-container img{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+  
+}
+
+.image{
+    padding: 30px;
+    text-align: center;
+}
+
+.Leadership-images-container div {
+   margin:0px 30px;
+   align-items: center;
+}
+.image p{
+   line-height: 0;
+   font-size: 16px;
+}
+.icons i{
+    padding: 0px 5px;
+    color: #ec7a49;
+    font-size: 20px;
+}
+.image h3{
+    /* line-height: 0; */
+  font-size:18px;
+  padding-top:5px;
+}
+
+.sec2-services {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+
+.idea{
+    margin-left: 400px;
+}
+
+.prototype{
+ margin-left: 1000px;
+}
+
+.line, .software-pro-container{
+    text-align: center;
+}
+
+.software-pro{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.sec-3-services{
+    padding: 60px 0;
+    background-color: #fffbf8;
+}
+.software-pro div{
+   margin: 20px 30px;
+}
+
+
+
+
+
+.top-line{
+    padding-top:70px;
+}
+.background-for-img {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 150px;
+    padding: 40px 10px;
+    /* height: 100px; */
+    border-radius: 50%;
+
+}
+
+.sec4-services{
+    padding: 60px 0px;
+    background-color: #ffffff;
+}
+
+.training-img{
+   margin:80px;
+ 
+}
+.training-content{
+    margin: 10px 300px;
+}
+
+.training-container{
+    display: flex;
+}
+
+.sec1-blog{
+    padding:80px 0px ;
+    background-color: #fffbf8;
+}
+
+.blog {
+    width: 500px;
+    border-radius: 10px;
+}
+
+.baddata{
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+
+ .flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
 
 
 
