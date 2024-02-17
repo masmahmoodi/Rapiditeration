@@ -45,6 +45,8 @@ header{
     color: #ffff;
     width: 115px;
     border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
 }
 
 .first-section{
@@ -479,4 +481,82 @@ footer p{
 }
 
 
+.sec1-contact {
+    padding:150px 0px;
+    background-color: #fffbf8;
+}
 
+.info{
+    color:#ffffff;
+    background-color: #2f3640;
+    width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.info h3,h4{
+    padding: 20px 0px;
+}
+
+.links label,i {
+    color: darkgray;
+}
+.links i {
+    font-size: 18px;
+}
+
+.social{
+    margin-left: 10px;
+}
+
+.social-icons{
+  margin-top: 100px;
+}
+.social-icons i{
+    color: #ffffff;
+    font-size: 20px;
+   padding-right:40px;
+}
+
+.links {
+    display: flex;
+}
+.contact-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.form{
+    background-color: #f3f4f6;
+    padding: 20px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.form input{
+    margin:25px 0px;
+}
+
+.inputs{
+    width: 500px;
+   padding: 20px ;
+
+
+}
+
+.inputs, #big-input{
+    border-radius: 10px;
+    border: none;
+    border: 1px solid gray;
+}
+
+#big-input{
+    width: 500px;
+    padding: 20px 20px 70px  20px;
+    
+}
+
+.form button{
+    margin-left: 430px;
+}
